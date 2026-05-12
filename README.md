@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <a href="https://abdulrehman-rana-portfolio.netlify.app" target="_blank">
+  <a href="https://abdulrehman-rana.vercel.app/" target="_blank">
     <img src="public/web-apps/portfolio.png" alt="Portfolio Banner">
   </a>
   <br />
@@ -96,7 +96,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## 📬 Contact
 
-- **Portfolio:** [abdulrehman-rana-portfolio.netlify.app](https://abdulrehman-rana-portfolio.netlify.app)
+- **Portfolio:** [https://abdulrehman-rana.vercel.app/](https://abdulrehman-rana.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/abdulrehman-rana](https://linkedin.com/in/abdulrehman-rana)
 - **GitHub:** [github.com/abdulrehman6417](https://github.com/abdulrehman6417)
 - **Email:** abdulrehman6417.rana@gmail.com

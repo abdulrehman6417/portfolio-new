@@ -97,7 +97,7 @@ export const projects = [
       "/tools_frameworks/lottie.svg",
       "/tools_frameworks/tail.svg",
     ],
-    link: "",
+    link: "https://abdulrehman-rana.vercel.app/",
     githubLink: "https://github.com/abdulrehman6417/portfolio-new",
   },
   {
