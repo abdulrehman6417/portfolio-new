@@ -21,7 +21,7 @@ const Footer = () => {
           actually works?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-          Whether it's a web app, a 3D experience, or an AI automation.
+          Whether it&apos;s a web app, a 3D experience, or an AI automation.
           Let&apos;s talk about what you need.
         </p>
         <a href="mailto:abdulrehman6417.rana@gmail.com">
